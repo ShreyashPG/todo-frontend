@@ -1,0 +1,37 @@
+frontend/
+│
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+│
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   └── styles/
+│   │       └── main.css
+│   │
+│   ├── components/
+│   │   ├── TodoList/
+│   │   │   ├── TodoList.js
+│   │   │   └── TodoList.css
+│   │   ├── TodoItem/
+│   │   │   ├── TodoItem.js
+│   │   │   └── TodoItem.css
+│   │   └── AddTodo/
+│   │       ├── AddTodo.js
+│   │       └── AddTodo.css
+│   │
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   └── AboutPage.js
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── .gitignore
+├── package.json
+└── README.md
